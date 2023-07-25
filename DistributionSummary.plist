@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PABBerbualBuah.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>23</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A1BBBE052844C12E1EC6F5A7929403CD55C54FC6</string>
+				<key>dateExpires</key>
+				<string>29/08/2025</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>65ERP768M8.com.toray.tms.WeConnect</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>65ERP768M8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>PABBerbualBuah.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4131b13f-0493-4528-ac5a-dfa020b7ee2d</string>
+				<key>dateExpires</key>
+				<string>24/07/2024</string>
+				<key>name</key>
+				<string>TMS SMiT Push Notification</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>65ERP768M8</string>
+				<key>name</key>
+				<string>PENFABRIC SDN. BHD.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
